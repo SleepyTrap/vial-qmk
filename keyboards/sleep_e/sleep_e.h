@@ -15,6 +15,7 @@
  */
 
 #pragma once
+#include "quantum.h"
 
 
 /* This is a shortcut to help you visually see your layout.
